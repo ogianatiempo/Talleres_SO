@@ -130,4 +130,4 @@ Ver `src/hai.c`.
 
 ## Ejercicio 3
 
-Ver `antikill.c`.
+Ver `src/antikill.c`.
