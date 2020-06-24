@@ -1,1 +1,0 @@
-cmd_/media/sf_Talleres_SO/0x02_drivers/ejercicios/letras123.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-23-generic-pae/scripts/module-common.lds --build-id  -o /media/sf_Talleres_SO/0x02_drivers/ejercicios/letras123.ko /media/sf_Talleres_SO/0x02_drivers/ejercicios/letras123.o /media/sf_Talleres_SO/0x02_drivers/ejercicios/letras123.mod.o
